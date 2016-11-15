@@ -92,7 +92,6 @@ GEM
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
     orm_adapter (0.5.0)
-    pg (0.19.0)
     quiet_assets (1.1.0)
       railties (>= 3.1, < 5.0)
     rack (1.6.4)
@@ -180,7 +179,6 @@ DEPENDENCIES
   foundation-rails (= 5.4.5)
   jbuilder (~> 2.0)
   jquery-rails
-  pg
   quiet_assets
   rails (= 4.2.0)
   rails_layout
